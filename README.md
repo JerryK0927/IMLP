@@ -1,7 +1,8 @@
+<font color=#0000FF>HomeWork</font>
 # NTU IML350
 
 ##<font color=#0000FF>HomeWork</font>
-<font color=#0000FF>HomeWork</font>
+
 | HomeWork        | status           | SourceCode Link  |
 | ------------- |:-------------:| :-----|
 | HW#1(Unit01_Crash Course on Python.ipynb程式)| Done(2021/11/07)      |  [Click Me](https://github.com/JerryK0927/IMLP/blob/main/Unit01_Crash%20Course%20on%20Python.ipynb)   |
