@@ -1,6 +1,6 @@
 # IMLP NTU ML350
 
-##__Alt-HomeWork__
+__HomeWork__
 | HomeWork        | status           | SourceCode Link  |
 | ------------- |:-------------:| -----:|
 | HW#1      | on-going      |     |
@@ -10,7 +10,7 @@
 | HW#5      |               |     |
 | HW#6      |               |     |
 
-##**Alt-Final Project**
+__Final Project__
 
 | Final Project        | status           | SourceCode Link  |
 | ------------- |:-------------:| -----:|
