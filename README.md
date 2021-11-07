@@ -14,5 +14,5 @@
 
 | Final Project        | status           | SourceCode Link  |
 | ------------- |:-------------:| -----:|
-| Toopic      | NA      | NA |
+| Topic      | NA      | NA |
 
