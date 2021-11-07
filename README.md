@@ -1,4 +1,3 @@
-<font color=#0000FF>HomeWork</font>
 # NTU IML350
 
 ##<font color=#0000FF>HomeWork</font>
