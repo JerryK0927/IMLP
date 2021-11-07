@@ -1,11 +1,18 @@
-# IMLP
-NTU ML350
+# IMLP NTU ML350
 
-table {
-    width: 100%;
-    max-width: 65em;
-    border: 1px solid #dedede;
-    margin: 15px auto;
-    border-collapse: collapse;
-    empty-cells: show;
-}
+##**Alt-HomeWork**
+| HomeWork        | status           | SourceCode Link  |
+| ------------- |:-------------:| -----:|
+| HW#1      | on-going      |     |
+| HW#2      | NA            |     |
+| HW#3      | NA            |     |
+| HW#4      | NA            |     |
+| HW#5      |               |     |
+| HW#6      |               |     |
+
+##**Alt-Final Project**
+
+| Final Project        | status           | SourceCode Link  |
+| ------------- |:-------------:| -----:|
+| Toopic      | NA      | NA |
+
